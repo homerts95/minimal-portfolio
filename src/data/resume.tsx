@@ -34,7 +34,7 @@ export const DATA = {
         icon: Icons.github,
       },
       LinkedIn: {
-        url: "https://www.linkedin.com/in/omiros.tsintilas/",
+        url: "https://www.linkedin.com/in/omiros-tsintilas/",
         icon: Icons.linkedin,
       },
       X: {
@@ -62,7 +62,7 @@ export const DATA = {
       "The Green City project",
     },
     {
-      company: "webout",
+      company: "Webout",
       badges: [],
       href: "https://webout.gr",
       location: "Athens",
@@ -95,7 +95,7 @@ export const DATA = {
       start: "Oct 2017",
       end: "Sep 2019",
       description:
-        "1.5 level network and systems troubleshooting. Created automation tools for verifying updates are correctly dispached and installed to all public transportation vehicle and station network devices all across Athens",
+        "2nd level network and systems troubleshooting. Created automation tools for verifying updates are correctly dispached and installed to all public transportation vehicle and station network devices all across Athens",
     },
     // {
     //   company: "Lime",
@@ -165,7 +165,7 @@ export const DATA = {
         },
       ],
       image: "",
-      // video:
+      video: ""
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
@@ -223,7 +223,7 @@ export const DATA = {
         // },
       ],
       image: "",
-      // video: "https://cdn.llm.report/openai-demo.mp4",
+      video: ""
     },
   //   {
   //     title: "Automatic Chat",
